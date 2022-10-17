@@ -1,0 +1,88 @@
+fig_no,file_name,title
+1,hillforts_primer_part02-001-topo.png,Management: Condition
+2,hillforts_primer_part02-002-topo.png,Management Condition Extant 
+3,hillforts_primer_part02-003-topo.png,Management Condition Cropmark 
+4,hillforts_primer_part02-004-topo.png,Management Condition Destroyed 
+5,hillforts_primer_part02-005-topo.png,Management: Land Use
+6,hillforts_primer_part02-006-topo.png,Management Land Use Woodland 
+7,hillforts_primer_part02-007-topo.png,Management Land Use Plantation 
+8,hillforts_primer_part02-008-topo.png,Management Land Use Parkland 
+9,hillforts_primer_part02-009-topo.png,Management Land Use Pasture 
+10,hillforts_primer_part02-010-topo.png,Management Land Use Arable 
+11,hillforts_primer_part02-011-topo.png,Management Land Use Scrub 
+12,hillforts_primer_part02-012-topo.png,Management Land Use Outcrop 
+13,hillforts_primer_part02-013-topo.png,Management Land Use Moorland 
+14,hillforts_primer_part02-014-topo.png,Management Land Use Heath 
+15,hillforts_primer_part02-015-topo.png,Management Land Use Urban 
+16,hillforts_primer_part02-016-topo.png,Management Land Use Coastal 
+17,hillforts_primer_part02-017-topo.png,Density Management Land Use Coastal
+18,hillforts_primer_part02-018-topo.png,Management Land Use Other 
+19,hillforts_primer_part02-019-topo.png,Landscape Altitude
+20,hillforts_primer_part02-020-topo.png,Landscape Altitude Range
+21,hillforts_primer_part02-021-topo.png,Landscape Altitude
+22,hillforts_primer_part02-022-topo.png,Landscape Altitude   Clipped
+23,hillforts_primer_part02-023-topo.png,Landscape Altitude over 460m (Outliers)
+24,hillforts_primer_part02-024-topo.png,Landscape Altitude over 400m
+25,hillforts_primer_part02-025-topo.png,Density Landscape Altitude over 400m
+26,hillforts_primer_part02-026-topo.png,Landscape Altitude 300   399m
+27,hillforts_primer_part02-027-topo.png,Density Landscape Altitude 300   399m
+28,hillforts_primer_part02-028-topo.png,Landscape Altitude 200   299m
+29,hillforts_primer_part02-029-topo.png,Density Landscape Altitude 200   299m
+30,hillforts_primer_part02-030-topo.png,Landscape Altitude 100   199m
+31,hillforts_primer_part02-031-topo.png,Density Landscape Altitude 100   199m
+32,hillforts_primer_part02-032-topo.png,Landscape Altitude 0   99m
+33,hillforts_primer_part02-033-topo.png,Density Landscape Altitude 0   99m
+34,hillforts_primer_part02-034-topo.png,Landscape: Type
+35,hillforts_primer_part02-035-topo.png,Landscape Type Contour 
+36,hillforts_primer_part02-036-topo.png,Density Landscape Type Contour
+37,hillforts_primer_part02-037-topo.png,Landscape Type Partial 
+38,hillforts_primer_part02-038-topo.png,Density Landscape Type Partial
+39,hillforts_primer_part02-039-topo.png,Landscape Type Promontory 
+40,hillforts_primer_part02-040-topo.png,Density Landscape Type Promontory
+41,hillforts_primer_part02-041-topo.png,Landscape Type Hillslope 
+42,hillforts_primer_part02-042-topo.png,Density Landscape Type Hillslope
+43,hillforts_primer_part02-043-topo.png,Landscape Type Level 
+44,hillforts_primer_part02-044-topo.png,Density Landscape Type Level
+45,hillforts_primer_part02-045-topo.png,Landscape Type Marsh 
+46,hillforts_primer_part02-046-topo.png,Landscape Type Multiple 
+47,hillforts_primer_part02-047-topo.png,Density Landscape Type Multiple
+48,hillforts_primer_part02-048-topo.png,Landscape: Topography
+49,hillforts_primer_part02-049-topo.png,Landscape Topography Hilltop 
+50,hillforts_primer_part02-050-topo.png,Density Landscape Topography Hilltop
+51,hillforts_primer_part02-051-topo.png,Landscape Topography Coastal 
+52,hillforts_primer_part02-052-topo.png,Density Landscape Topography Coastal
+53,hillforts_primer_part02-053-topo.png,Landscape Topography Inland 
+54,hillforts_primer_part02-054-topo.png,Density Landscape Topography Inland
+55,hillforts_primer_part02-055-topo.png,Landscape Topography Valley 
+56,hillforts_primer_part02-056-topo.png,Landscape Topography Knoll 
+57,hillforts_primer_part02-057-topo.png,Density Landscape Topography Knoll
+58,hillforts_primer_part02-058-topo.png,Landscape Topography Ridge 
+59,hillforts_primer_part02-059-topo.png,Density Landscape Topography Ridge
+60,hillforts_primer_part02-060-topo.png,Landscape Topography Scarp 
+61,hillforts_primer_part02-061-topo.png,Density Landscape Topography Scarp
+62,hillforts_primer_part02-062-topo.png,Landscape Topography Hillslope 
+63,hillforts_primer_part02-063-topo.png,Density Landscape Topography Hillslope
+64,hillforts_primer_part02-064-topo.png,Landscape Topography Lowland 
+65,hillforts_primer_part02-065-topo.png,Density Landscape Topography Lowland
+66,hillforts_primer_part02-066-topo.png,Landscape Topography Spur 
+67,hillforts_primer_part02-067-topo.png,Density Landscape Topography Spur
+68,hillforts_primer_part02-068-topo.png,Landscape: Aspect
+69,hillforts_primer_part02-069-topo.png,Landscape Aspect (Excluding Level)
+70,hillforts_primer_part02-070-topo.png,Landscape Aspect N 
+71,hillforts_primer_part02-071-topo.png,Density Landscape Aspect N
+72,hillforts_primer_part02-072-topo.png,Landscape Aspect NE 
+73,hillforts_primer_part02-073-topo.png,Density Landscape Aspect NE
+74,hillforts_primer_part02-074-topo.png,Landscape Aspect E 
+75,hillforts_primer_part02-075-topo.png,Density Landscape Aspect E
+76,hillforts_primer_part02-076-topo.png,Landscape Aspect SE 
+77,hillforts_primer_part02-077-topo.png,Density Landscape Aspect SE
+78,hillforts_primer_part02-078-topo.png,Landscape Aspect S 
+79,hillforts_primer_part02-079-topo.png,Density Landscape Aspect S
+80,hillforts_primer_part02-080-topo.png,Landscape Aspect SW 
+81,hillforts_primer_part02-081-topo.png,Density Landscape Aspect SW
+82,hillforts_primer_part02-082-topo.png,Landscape Aspect W 
+83,hillforts_primer_part02-083-topo.png,Density Landscape Aspect W
+84,hillforts_primer_part02-084-topo.png,Landscape Aspect NW 
+85,hillforts_primer_part02-085-topo.png,Density Landscape Aspect NW
+86,hillforts_primer_part02-086-topo.png,Landscape Aspect Level 
+87,hillforts_primer_part02-087-topo.png,Density Landscape Aspect Level

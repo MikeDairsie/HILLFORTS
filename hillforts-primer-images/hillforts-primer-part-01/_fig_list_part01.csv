@@ -1,0 +1,84 @@
+fig_no,file_name,title
+1,hillforts_primer_part01-001.png,OBJECTID
+2,hillforts_primer_part01-002.png,England   Main X/Main Y
+3,hillforts_primer_part01-003.png,Wales   Main X/Main Y
+4,hillforts_primer_part01-004.png,Scotland Main X/Main Y
+5,hillforts_primer_part01-005.png,Northern Ireland Main X/Main Y
+6,hillforts_primer_part01-006.png,Republic of Ireland Main X/Main Y
+7,hillforts_primer_part01-007.png,Isle of Man Main X/Main Y
+8,hillforts_primer_part01-008.png,Republic of Ireland and Northern Ireland Combined   Main X/Main Y
+9,hillforts_primer_part01-009.png,England; Wales; Scotland and Man Combined   Main X/Main Y
+10,hillforts_primer_part01-010.png,Main Boundary 
+11,hillforts_primer_part01-011.png,Main X/Main Y
+12,hillforts_primer_part01-012.png,Location X/Location Y
+13,hillforts_primer_part01-013.png,Location X
+14,hillforts_primer_part01-014.png,Location X Range
+15,hillforts_primer_part01-015.png,Location Y
+16,hillforts_primer_part01-016.png,Location Y Range
+17,hillforts_primer_part01-017.png,Location Longitude/Location Latitude
+18,hillforts_primer_part01-018.png,Density
+19,hillforts_primer_part01-019.png,Density
+20,hillforts_primer_part01-020.png,Density Transformed
+21,hillforts_primer_part01-021.png,Density Transformed
+22,hillforts_primer_part01-022.png,Density overlayed by the extent of Boxplot (All Data)
+23,hillforts_primer_part01-023.png,Location Y   North Range
+24,hillforts_primer_part01-024.png,Location Y   North
+25,hillforts_primer_part01-025.png,Location X   North Range
+26,hillforts_primer_part01-026.png,Location X   North
+27,hillforts_primer_part01-027.png,Density Transformed (North)
+28,hillforts_primer_part01-028.png,Density Transformed   top 5% (North)
+29,hillforts_primer_part01-029.png,Density Transformed   Capped (North)
+30,hillforts_primer_part01-030.png,Density Transformed overlayed by the extent of Boxplot (N)
+31,hillforts_primer_part01-031.png,Location X   North West
+32,hillforts_primer_part01-032.png,Location X   North West Range
+33,hillforts_primer_part01-033.png,Location Y   North West
+34,hillforts_primer_part01-034.png,Location Y   North West Range
+35,hillforts_primer_part01-035.png,Density Transformed (North West)
+36,hillforts_primer_part01-036.png,Location X   North West (Minus Ireland)
+37,hillforts_primer_part01-037.png,Location X   North West (minus Ireland) Range
+38,hillforts_primer_part01-038.png,Location Y   North West (minus Ireland)
+39,hillforts_primer_part01-039.png,Location Y   North West (minus Ireland) Range
+40,hillforts_primer_part01-040.png,Density Trans & Boxplot (NW minus Ireland)
+41,hillforts_primer_part01-041.png,Location X   North East
+42,hillforts_primer_part01-042.png,Location X   North East Range
+43,hillforts_primer_part01-043.png,Location Y   North East
+44,hillforts_primer_part01-044.png,Location Y   North East Range
+45,hillforts_primer_part01-045.png,Density Transformed (North East)
+46,hillforts_primer_part01-046.png,Density Transformed (North East & Norht West)
+47,hillforts_primer_part01-047.png,Location X   South
+48,hillforts_primer_part01-048.png,Location X   South Range
+49,hillforts_primer_part01-049.png,Location Y   South
+50,hillforts_primer_part01-050.png,Location Y   South Range
+51,hillforts_primer_part01-051.png,Density (South)
+52,hillforts_primer_part01-052.png,Density   top 5% (South)
+53,hillforts_primer_part01-053.png,Density Transformed (South)
+54,hillforts_primer_part01-054.png,Density Transformed and Boxplot (South)
+55,hillforts_primer_part01-055.png,Location X   South (minus Ireland)
+56,hillforts_primer_part01-056.png,Location X   South (minus Ireland) Range
+57,hillforts_primer_part01-057.png,Location Y   South (minus Ireland)
+58,hillforts_primer_part01-058.png,Location Y   South (minus Ireland) Range
+59,hillforts_primer_part01-059.png,Density Transformed and Boxplot (South minus Ireland)
+60,hillforts_primer_part01-060.png,Location X   Ireland
+61,hillforts_primer_part01-061.png,Location X   Ireland Range
+62,hillforts_primer_part01-062.png,Location Y   Ireland
+63,hillforts_primer_part01-063.png,Location Y   Ireland Range
+64,hillforts_primer_part01-064.png,Density (Ireland)
+65,hillforts_primer_part01-065.png,Density Ireland
+66,hillforts_primer_part01-066.png,Density Ireland   top 5%
+67,hillforts_primer_part01-067.png,Location X   North Cluster
+68,hillforts_primer_part01-068.png,Location X   North Cluster Range
+69,hillforts_primer_part01-069.png,Location Y   North Cluster
+70,hillforts_primer_part01-070.png,Location Y   North Cluster Range
+71,hillforts_primer_part01-071.png,Density Ireland   North
+72,hillforts_primer_part01-072.png,Location X   South Cluster
+73,hillforts_primer_part01-073.png,Location X   South Cluster Range
+74,hillforts_primer_part01-074.png,Location Y   South Cluster
+75,hillforts_primer_part01-075.png,Location Y   Cluster Range
+76,hillforts_primer_part01-076.png,Density Ireland   South
+77,hillforts_primer_part01-077.png,Density overlayed by the extent of Boxplot (Ireland)
+78,hillforts_primer_part01-078.png,Density overlayed by the extent of Boxplots   Ireland (N & S)
+79,hillforts_primer_part01-079.png,Density overlayed by the extent of Boxplots: (N & S)
+80,hillforts_primer_part01-080.png,Density overlayed by the extent of Boxplots: NE; NW & South
+81,hillforts_primer_part01-081.png,Density overlayed by the extent of the five main cluster Boxplots
+82,hillforts_primer_part01-082.png,Location Cluster Data Packages
+83,hillforts_primer_part01-083.png,The five main density clusters (Density ajusted by region)
