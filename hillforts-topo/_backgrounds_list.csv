@@ -1,0 +1,23 @@
+background_no,file_name,title
+1,hillforts-bw-01.png,atlas extent - dark grey
+2,hillforts-bw-02.png,atlas extent - light grey
+3,hillforts-outline-01.png,atlas extent - outline
+4,hillforts-outline-ireland.png,extent - ireland
+5,hillforts-outline-ireland-north.png,extent - north ireland
+6,hillforts-outline-ireland-south.png,extent - south ireland
+7,hillforts-outline-north.png,extent - north
+8,hillforts-outline-northeast.png,extent - north east
+9,hillforts-outline-northwest-minus.png,extent - north west minus ireland
+10,hillforts-outline-northwest-plus.png,extent - north west including ireland
+11,hillforts-outline-south.png,extent - south
+12,hillforts-outline-south-plus.png,extent - south including ireland
+13,hillforts-topo-outline-01.png,atlas extent - topographic
+14,hillforts-topo-outline-ireland.png,extent - ireland - topographic
+15,hillforts-topo-outline-ireland-north.png,extent - north ireland - topographic
+16,hillforts-topo-outline-ireland-south.png,extent - south ireland - topographic
+17,hillforts-topo-outline-north.png,extent - north - topographic
+18,hillforts-topo-outline-northeast.png,extent - north east - topographic
+19,hillforts-topo-outline-northwest-minus.png,extent - north west minus ireland - topographic
+20,hillforts-topo-outline-northwest-plus.png,extent - north west including ireland - topographic
+21,hillforts-topo-outline-south.png,extent - south - topographic
+22,hillforts-topo-outline-south-plus.png,extent - south including ireland - topographic

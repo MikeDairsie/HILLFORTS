@@ -1,0 +1,42 @@
+fig_no,file_name,title
+1,hillforts_primer_part03-001.png,Boundary Boundary Type
+2,hillforts_primer_part03-002.png,Boundary Type Excluding Null Values
+3,hillforts_primer_part03-003.png,Boundary Type NA
+4,hillforts_primer_part03-004.png,Boundary Type County
+5,hillforts_primer_part03-005.png,Boundary Type National
+6,hillforts_primer_part03-006.png,Boundary Type Parish/Townland
+7,hillforts_primer_part03-007.png,Boundary Type Other
+8,hillforts_primer_part03-008.png,Boundary Current Parish 2 
+9,hillforts_primer_part03-009.png,Dating
+10,hillforts_primer_part03-010.png,Dating Dated only
+11,hillforts_primer_part03-011.png,Dating Date Pre 1200BC 
+12,hillforts_primer_part03-012.png,Dating Date 1200BC 800BC 
+13,hillforts_primer_part03-013.png,Dating Date 800BC 400BC 
+14,hillforts_primer_part03-014.png,Density Dating Date 800BC 400BC
+15,hillforts_primer_part03-015.png,Dating Date 800BC 400BC 
+16,hillforts_primer_part03-016.png,Dating Date 400BC AD50 
+17,hillforts_primer_part03-017.png,Density Dating Date 400BC AD50
+18,hillforts_primer_part03-018.png,Dating Date 400BC AD50 
+19,hillforts_primer_part03-019.png,Dating Date AD50 AD400 
+20,hillforts_primer_part03-020.png,Dating Date AD400 AD800 
+21,hillforts_primer_part03-021.png,Dating Date Post AD800 
+22,hillforts_primer_part03-022.png,Dating Date Unknown No (Known)
+23,hillforts_primer_part03-023.png,Dating Date Unknown 
+24,hillforts_primer_part03-024.png,Date Reliability
+25,hillforts_primer_part03-025.png,Dating Date Reliability D None
+26,hillforts_primer_part03-026.png,Dating Date Reliability C Low
+27,hillforts_primer_part03-027.png,Dating Date Reliability B Medium
+28,hillforts_primer_part03-028.png,Dating Date Reliability A High
+29,hillforts_primer_part03-029.png,Dating Date Reliability NA
+30,hillforts_primer_part03-030.png,Dating Pre 
+31,hillforts_primer_part03-031.png,Dating Post 
+32,hillforts_primer_part03-032.png,Proportions of Dated Hillforts by Region
+33,hillforts_primer_part03-033.png,Related Dating Artefactual 
+34,hillforts_primer_part03-034.png,Density Related Dating Artefactual
+35,hillforts_primer_part03-035.png,Related Dating Artefactual plus Swindon & Oxford
+36,hillforts_primer_part03-036.png,Related Dating Morph Earth Typo 
+37,hillforts_primer_part03-037.png,Density Related Dating Morph Earth Typo
+38,hillforts_primer_part03-038.png,Related Dating C14 
+39,hillforts_primer_part03-039.png,Density Related Dating C14
+40,hillforts_primer_part03-040.png,Related Dating Other 
+41,hillforts_primer_part03-041.png,Related Dating NA 
