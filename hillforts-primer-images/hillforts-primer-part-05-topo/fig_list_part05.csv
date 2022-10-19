@@ -1,0 +1,265 @@
+fig_no,file_name,title
+1,hillforts_primer_part05-001-topo.png,Entrances Breaks
+2,hillforts_primer_part05-002-topo.png,Entrances Breaks Range
+3,hillforts_primer_part05-003-topo.png,Entrances Breaks 
+4,hillforts_primer_part05-004-topo.png,Distribution of IQR (0   2 Ha)
+5,hillforts_primer_part05-005-topo.png,Density   Entrances Breaks IQR (Middle 50%) (0   2 Ha)
+6,hillforts_primer_part05-006-topo.png,Distribution of Upper Quartile (3   5)
+7,hillforts_primer_part05-007-topo.png,Density   Entrances Breaks Upper Quartile (3   5)
+8,hillforts_primer_part05-008-topo.png,Distribution of Outliers (6+)
+9,hillforts_primer_part05-009-topo.png,Entrances Breaks (0)
+10,hillforts_primer_part05-010-topo.png,Entrances Breaks (0)   North East
+11,hillforts_primer_part05-011-topo.png,Density   Entrances Breaks (0) 
+12,hillforts_primer_part05-012-topo.png,Entrances Breaks (1)
+13,hillforts_primer_part05-013-topo.png,Density   Entrances Breaks (1) 
+14,hillforts_primer_part05-014-topo.png,Entrances Breaks (2)
+15,hillforts_primer_part05-015-topo.png,Entrances Breaks (2) and Possible Linears   South
+16,hillforts_primer_part05-016-topo.png,Density   Entrances Breaks (2) 
+17,hillforts_primer_part05-017-topo.png,Entrances Breaks (3)
+18,hillforts_primer_part05-018-topo.png,Density   Entrances Breaks (3) 
+19,hillforts_primer_part05-019-topo.png,Entrances Breaks (4)
+20,hillforts_primer_part05-020-topo.png,Density   Entrances Breaks (4) 
+21,hillforts_primer_part05-021-topo.png,Entrances Breaks (4)   North East
+22,hillforts_primer_part05-022-topo.png,Four Entrance Breaks (NE) Dating
+23,hillforts_primer_part05-023-topo.png,Four Entrance Breaks (NE) Dating (Excluding Unknown)
+24,hillforts_primer_part05-024-topo.png,Entrances Breaks (5)
+25,hillforts_primer_part05-025-topo.png,Entrances Breaks (not recorded)
+26,hillforts_primer_part05-026-topo.png,Entrances Original
+27,hillforts_primer_part05-027-topo.png,Entrances Original Range
+28,hillforts_primer_part05-028-topo.png,Entrances Original (Not recorded)
+29,hillforts_primer_part05-029-topo.png,Entrances Original (0)
+30,hillforts_primer_part05-030-topo.png,Density   Entrances Original Density (0) 
+31,hillforts_primer_part05-031-topo.png,Entrances Original (1)
+32,hillforts_primer_part05-032-topo.png,Density   Entrances Original Density (1) 
+33,hillforts_primer_part05-033-topo.png,Entrances Original (2)
+34,hillforts_primer_part05-034-topo.png,Density   Entrances Original Density (2) 
+35,hillforts_primer_part05-035-topo.png,Entrances Original (3)
+36,hillforts_primer_part05-036-topo.png,Density   Entrances Original Density (3) 
+37,hillforts_primer_part05-037-topo.png,Entrances Original (4 or more (Outliers))
+38,hillforts_primer_part05-038-topo.png,Entrances
+39,hillforts_primer_part05-039-topo.png,Entrances Guard Chambers Entrances Guard Chambers
+40,hillforts_primer_part05-040-topo.png,Entrances Chevaux Entrances Chevaux
+41,hillforts_primer_part05-041-topo.png,Enclosing Area 1 
+42,hillforts_primer_part05-042-topo.png,Enclosing Area 1 clip (hectares)
+43,hillforts_primer_part05-043-topo.png,Enclosing Area 1 Range
+44,hillforts_primer_part05-044-topo.png,Enclosing Area 1 Range
+45,hillforts_primer_part05-045-topo.png,Enclosing Area 1 (South) Range
+46,hillforts_primer_part05-046-topo.png,Enclosing Area 1 clip (South) (hectares)
+47,hillforts_primer_part05-047-topo.png,Enclosing Area 1 (North East) Range
+48,hillforts_primer_part05-048-topo.png,Enclosing Area 1 clip (North East) (hectares)
+49,hillforts_primer_part05-049-topo.png,Enclosing Area 1 (North West) Range
+50,hillforts_primer_part05-050-topo.png,Enclosing Area 1 clip (North West) (hectares)
+51,hillforts_primer_part05-051-topo.png,Enclosing Area 1 (North Ireland) Range
+52,hillforts_primer_part05-052-topo.png,Enclosing Area 1 clip (North Ireland) (hectares)
+53,hillforts_primer_part05-053-topo.png,Enclosing Area 1 (South Ireland) Range
+54,hillforts_primer_part05-054-topo.png,Enclosing Area 1 clip (South Ireland) (hectares)
+55,hillforts_primer_part05-055-topo.png,Enclosing Area 1: Regional Boxplots (excluding outliers)
+56,hillforts_primer_part05-056-topo.png,Enclosing Area 1: Regional Boxplots
+57,hillforts_primer_part05-057-topo.png,Enclosing Area 1 
+58,hillforts_primer_part05-058-topo.png,Enclosing Area 1 IQR   Middle 50% (0.13 to 1 Ha)
+59,hillforts_primer_part05-059-topo.png,Location X   Enclosing Area 1   IQR   Middle 50% (0.13 to 1 Ha)
+60,hillforts_primer_part05-060-topo.png,Location Y   Enclosing Area 1   IQR   Middle 50% (0.13 to 1 Ha)
+61,hillforts_primer_part05-061-topo.png,Density   IQR Density   Middle 50% (0.13 to 1 Ha) 
+62,hillforts_primer_part05-062-topo.png,Enclosing Area 1 boxcox Outer 45.6% (Lower & Upper Quartiles excluding outliers)
+63,hillforts_primer_part05-063-topo.png,Location X   Enclosing Area 1   Lower Quartile (< 0.13 Ha)
+64,hillforts_primer_part05-064-topo.png,Location Y   Enclosing Area 1   Lower Quartile (< 0.13 Ha)
+65,hillforts_primer_part05-065-topo.png,Location X   Enclosing Area 1   Upper Quartile (1 to 10.5 Ha)
+66,hillforts_primer_part05-066-topo.png,Location Y   Enclosing Area 1   Upper Quartile (1 to 10.5 Ha)
+67,hillforts_primer_part05-067-topo.png,Density   Lower Quartile Density (< 0.13 Ha) 
+68,hillforts_primer_part05-068-topo.png,Density   Upper Quartile Density (1 to 10.5 Ha) 
+69,hillforts_primer_part05-069-topo.png,Enclosing Area 1 Density
+70,hillforts_primer_part05-070-topo.png,Enclosing Area 1 Distribution All Outliers (over 10.5 Ha)
+71,hillforts_primer_part05-071-topo.png,Enclosing Area 1 All Outliers (over 10.5 Ha)
+72,hillforts_primer_part05-072-topo.png,Enclosing Area 1 Distribution Outliers (over 21 Ha)
+73,hillforts_primer_part05-073-topo.png,Enclosing Area 1 clip Outliers by Size (over 21 Ha)
+74,hillforts_primer_part05-074-topo.png,Density Transformed Showing Hillforts Over 21 Ha
+75,hillforts_primer_part05-075-topo.png,Southern Density Transformed Showing Hillforts Over 21 Ha (South Only)
+76,hillforts_primer_part05-076-topo.png,Hillforts Over 21 Ha Bounding the Southern Density Hotspot (All Data)
+77,hillforts_primer_part05-077-topo.png,Hillforts Over 21 Ha Bounding the Southern Density Hotspot (South Only)
+78,hillforts_primer_part05-078-topo.png,Hillforts Over 21 Ha Dating
+79,hillforts_primer_part05-079-topo.png,Enclosing Area 1 With Null Values
+80,hillforts_primer_part05-080-topo.png,Enclosing Area 2 
+81,hillforts_primer_part05-081-topo.png,Enclosing Area 2 Range
+82,hillforts_primer_part05-082-topo.png,Enclosing Area 2 clip 
+83,hillforts_primer_part05-083-topo.png,Enclosing Area 2 clip 
+84,hillforts_primer_part05-084-topo.png,Enclosing Area 3 
+85,hillforts_primer_part05-085-topo.png,Enclosing Area 3 Range
+86,hillforts_primer_part05-086-topo.png,Enclosing Area 3 clip 
+87,hillforts_primer_part05-087-topo.png,Enclosing Area 3 clip 
+88,hillforts_primer_part05-088-topo.png,Enclosing Area 4 
+89,hillforts_primer_part05-089-topo.png,Enclosing Area 4 Range
+90,hillforts_primer_part05-090-topo.png,Enclosing Area 4 clip 
+91,hillforts_primer_part05-091-topo.png,Enclosing Area 4 clip 
+92,hillforts_primer_part05-092-topo.png,Enclosing Difference 
+93,hillforts_primer_part05-093-topo.png,Enclosing Difference Range
+94,hillforts_primer_part05-094-topo.png,Enclosing Difference Clipped 
+95,hillforts_primer_part05-095-topo.png,Enclosing Difference clip 
+96,hillforts_primer_part05-096-topo.png,Enclosing Area 
+97,hillforts_primer_part05-097-topo.png,Enclosing Area Range
+98,hillforts_primer_part05-098-topo.png,Enclosing Area clip 
+99,hillforts_primer_part05-099-topo.png,Enclosing Area clip 
+100,hillforts_primer_part05-100-topo.png,Enclosing Max Ramparts 
+101,hillforts_primer_part05-101-topo.png,Enclosing Max Ramparts Range
+102,hillforts_primer_part05-102-topo.png,Enclosing Max Ramparts clip 
+103,hillforts_primer_part05-103-topo.png,Enclosing Max Ramparts (Not recorded)
+104,hillforts_primer_part05-104-topo.png,Enclosing Max Ramparts (0)
+105,hillforts_primer_part05-105-topo.png,Density   Ramparts (0) 
+106,hillforts_primer_part05-106-topo.png,Enclosing Max Ramparts (1)
+107,hillforts_primer_part05-107-topo.png,Density   Ramparts (1) 
+108,hillforts_primer_part05-108-topo.png,Enclosing Max Ramparts (2)
+109,hillforts_primer_part05-109-topo.png,Density   Ramparts (2) 
+110,hillforts_primer_part05-110-topo.png,Enclosing Max Ramparts (3)
+111,hillforts_primer_part05-111-topo.png,Density   Ramparts (3) 
+112,hillforts_primer_part05-112-topo.png,Enclosing Max Ramparts (4)
+113,hillforts_primer_part05-113-topo.png,Density   Ramparts (4) 
+114,hillforts_primer_part05-114-topo.png,Enclosing Max Ramparts (4+)   North East
+115,hillforts_primer_part05-115-topo.png,Enclosing Max Ramparts (5+ Outliers)
+116,hillforts_primer_part05-116-topo.png,Enclosing Max Ramparts: Regional Boxplots
+117,hillforts_primer_part05-117-topo.png,Enclosing Max Ramparts by Region
+118,hillforts_primer_part05-118-topo.png,Rampart Density
+119,hillforts_primer_part05-119-topo.png,Enclosing Ditches Number 
+120,hillforts_primer_part05-120-topo.png,Enclosing Ditches Number Range
+121,hillforts_primer_part05-121-topo.png,Enclosing Ditches Number clip 
+122,hillforts_primer_part05-122-topo.png,Enclosing Ditches Number (Not recorded)
+123,hillforts_primer_part05-123-topo.png,Enclosing Ditches Number (0)
+124,hillforts_primer_part05-124-topo.png,Density   Ditches (0) 
+125,hillforts_primer_part05-125-topo.png,Enclosing Ditches Number (1)
+126,hillforts_primer_part05-126-topo.png,Density   Ditches (1) 
+127,hillforts_primer_part05-127-topo.png,Enclosing Ditches Number (2)
+128,hillforts_primer_part05-128-topo.png,Density   Ditches (2) 
+129,hillforts_primer_part05-129-topo.png,Enclosing Ditches Number (3)
+130,hillforts_primer_part05-130-topo.png,Density   Ditches (3) 
+131,hillforts_primer_part05-131-topo.png,Enclosing Ditches Number (4)
+132,hillforts_primer_part05-132-topo.png,Enclosing Ditches Number (4+)   North East
+133,hillforts_primer_part05-133-topo.png,Enclosing Ditches Number (5+ Outliers)
+134,hillforts_primer_part05-134-topo.png,Enclosing Ditches Number: Regional Boxplots
+135,hillforts_primer_part05-135-topo.png,Enclosing Ditches Region
+136,hillforts_primer_part05-136-topo.png,Ditch Density
+137,hillforts_primer_part05-137-topo.png,Enclosing NE Quadrant (Not Recorded)
+138,hillforts_primer_part05-138-topo.png,Enclosing SE Quadrant (Not Recorded)
+139,hillforts_primer_part05-139-topo.png,Enclosing SW Quadrant (Not Recorded)
+140,hillforts_primer_part05-140-topo.png,Enclosing NW Quadrant (Not Recorded)
+141,hillforts_primer_part05-141-topo.png,Enclosing NE Quadrant (0)
+142,hillforts_primer_part05-142-topo.png,Density   Enclosing NE Quadrant (0) 
+143,hillforts_primer_part05-143-topo.png,Enclosing SE Quadrant (0)
+144,hillforts_primer_part05-144-topo.png,Density   Enclosing SE Quadrant (0) 
+145,hillforts_primer_part05-145-topo.png,Enclosing SW Quadrant (0)
+146,hillforts_primer_part05-146-topo.png,Density   Enclosing SW Quadrant (0) 
+147,hillforts_primer_part05-147-topo.png,Enclosing NW Quadrant (0)
+148,hillforts_primer_part05-148-topo.png,Density   Enclosing NW Quadrant (0) 
+149,hillforts_primer_part05-149-topo.png,Enclosing NE Quadrant (1)
+150,hillforts_primer_part05-150-topo.png,Density   Enclosing NE Quadrant (1) 
+151,hillforts_primer_part05-151-topo.png,Enclosing SE Quadrant (1)
+152,hillforts_primer_part05-152-topo.png,Density   Enclosing SE Quadrant (1) 
+153,hillforts_primer_part05-153-topo.png,Enclosing SW Quadrant (1)
+154,hillforts_primer_part05-154-topo.png,Density   Enclosing SW Quadrant (1) 
+155,hillforts_primer_part05-155-topo.png,Enclosing NW Quadrant (1)
+156,hillforts_primer_part05-156-topo.png,Density   Enclosing NW Quadrant (1) 
+157,hillforts_primer_part05-157-topo.png,Enclosing NE Quadrant (2)
+158,hillforts_primer_part05-158-topo.png,Density   Enclosing NE Quadrant (2) 
+159,hillforts_primer_part05-159-topo.png,Enclosing SE Quadrant (2)
+160,hillforts_primer_part05-160-topo.png,Density   Enclosing SE Quadrant (2) 
+161,hillforts_primer_part05-161-topo.png,Enclosing SW Quadrant (2)
+162,hillforts_primer_part05-162-topo.png,Density   Enclosing SW Quadrant (2) 
+163,hillforts_primer_part05-163-topo.png,Enclosing NW Quadrant (2)
+164,hillforts_primer_part05-164-topo.png,Density   Enclosing NW Quadrant (2) 
+165,hillforts_primer_part05-165-topo.png,Enclosing NE Quadrant (3)
+166,hillforts_primer_part05-166-topo.png,Density   Enclosing NE Quadrant (3) 
+167,hillforts_primer_part05-167-topo.png,Enclosing SE Quadrant (3)
+168,hillforts_primer_part05-168-topo.png,Density   Enclosing SE Quadrant (3) 
+169,hillforts_primer_part05-169-topo.png,Enclosing SW Quadrant (3)
+170,hillforts_primer_part05-170-topo.png,Density   Enclosing SW Quadrant (3) 
+171,hillforts_primer_part05-171-topo.png,Enclosing NW Quadrant (3)
+172,hillforts_primer_part05-172-topo.png,Density   Enclosing NW Quadrant (3) 
+173,hillforts_primer_part05-173-topo.png,Enclosing NE Quadrant (4)
+174,hillforts_primer_part05-174-topo.png,Enclosing SE Quadrant (4)
+175,hillforts_primer_part05-175-topo.png,Enclosing SW Quadrant (4)
+176,hillforts_primer_part05-176-topo.png,Enclosing NW Quadrant (4)
+177,hillforts_primer_part05-177-topo.png,Enclosing NE Quadrant (5+)
+178,hillforts_primer_part05-178-topo.png,Enclosing SE Quadrant (5+)
+179,hillforts_primer_part05-179-topo.png,Enclosing SW Quadrant (5+)
+180,hillforts_primer_part05-180-topo.png,Enclosing NW Quadrant (5+)
+181,hillforts_primer_part05-181-topo.png,Ditches; Ramparts and Quadrant by Number
+182,hillforts_primer_part05-182-topo.png,Quadrant 0
+183,hillforts_primer_part05-183-topo.png,Quadrant 1
+184,hillforts_primer_part05-184-topo.png,Quadrant 2
+185,hillforts_primer_part05-185-topo.png,Quadrant 3
+186,hillforts_primer_part05-186-topo.png,Enclosing Multiperiod 
+187,hillforts_primer_part05-187-topo.png,Density   Enclosing Multiperiod 
+188,hillforts_primer_part05-188-topo.png,Enclosing Circuit 
+189,hillforts_primer_part05-189-topo.png,Density   Enclosing Circuit 
+190,hillforts_primer_part05-190-topo.png,Enclosing Current Part Uni 
+191,hillforts_primer_part05-191-topo.png,Density   Enclosing Current Part Uni 
+192,hillforts_primer_part05-192-topo.png,Enclosing Current Uni 
+193,hillforts_primer_part05-193-topo.png,Density   Enclosing Current Univallate 
+194,hillforts_primer_part05-194-topo.png,Enclosing Current Part Bi 
+195,hillforts_primer_part05-195-topo.png,Density   Enclosing Current Part Bivallate 
+196,hillforts_primer_part05-196-topo.png,Enclosing Current Bi 
+197,hillforts_primer_part05-197-topo.png,Density   Enclosing Current Bivallate 
+198,hillforts_primer_part05-198-topo.png,Enclosing Current Part Multi 
+199,hillforts_primer_part05-199-topo.png,Density   Enclosing Current Part Multivallate 
+200,hillforts_primer_part05-200-topo.png,Enclosing Current Multi 
+201,hillforts_primer_part05-201-topo.png,Density   Enclosing Current Multivallate 
+202,hillforts_primer_part05-202-topo.png,Enclosing Current Unknown 
+203,hillforts_primer_part05-203-topo.png,Enclosing Current Count by Region
+204,hillforts_primer_part05-204-topo.png,Enclosing Current Percentage by Region
+205,hillforts_primer_part05-205-topo.png,Current Curcuit
+206,hillforts_primer_part05-206-topo.png,Enclosing Period Part Uni 
+207,hillforts_primer_part05-207-topo.png,Enclosing Period Uni 
+208,hillforts_primer_part05-208-topo.png,Density   Enclosing Period Univallate 
+209,hillforts_primer_part05-209-topo.png,Enclosing Period Part Bi 
+210,hillforts_primer_part05-210-topo.png,Enclosing Period Bi 
+211,hillforts_primer_part05-211-topo.png,Enclosing Period Part Multi 
+212,hillforts_primer_part05-212-topo.png,Enclosing Period Multi 
+213,hillforts_primer_part05-213-topo.png,Enclosing Surface None 
+214,hillforts_primer_part05-214-topo.png,Density   Enclosing Surface None 
+215,hillforts_primer_part05-215-topo.png,Enclosing Surface Bank 
+216,hillforts_primer_part05-216-topo.png,Density   Enclosing Surface Bank 
+217,hillforts_primer_part05-217-topo.png,Enclosing Surface Wall 
+218,hillforts_primer_part05-218-topo.png,Density   Enclosing Surface Wall 
+219,hillforts_primer_part05-219-topo.png,Enclosing Surface Rubble 
+220,hillforts_primer_part05-220-topo.png,Density   Enclosing Surface Rubble 
+221,hillforts_primer_part05-221-topo.png,Enclosing Surface Walk 
+222,hillforts_primer_part05-222-topo.png,Enclosing Surface Timber 
+223,hillforts_primer_part05-223-topo.png,Enclosing Surface Vitrification 
+224,hillforts_primer_part05-224-topo.png,Density   Enclosing Surface Vitrification 
+225,hillforts_primer_part05-225-topo.png,Enclosing Surface Burning 
+226,hillforts_primer_part05-226-topo.png,Enclosing Surface Palisade 
+227,hillforts_primer_part05-227-topo.png,Density   Enclosing Surface Palisade 
+228,hillforts_primer_part05-228-topo.png,Enclosing Surface Counter Scarp 
+229,hillforts_primer_part05-229-topo.png,Density   Enclosing Surface Counter Scarp 
+230,hillforts_primer_part05-230-topo.png,Enclosing Surface Berm 
+231,hillforts_primer_part05-231-topo.png,Density   Enclosing Surface Burm 
+232,hillforts_primer_part05-232-topo.png,Enclosing Surface Unfinished 
+233,hillforts_primer_part05-233-topo.png,Density   Enclosing Surface Unfinished 
+234,hillforts_primer_part05-234-topo.png,Enclosing Surface Other 
+235,hillforts_primer_part05-235-topo.png,Enclosing Surface Count by Region
+236,hillforts_primer_part05-236-topo.png,Enclosing Surface Count by Region
+237,hillforts_primer_part05-237-topo.png,Enclosing Excavation Nothing 
+238,hillforts_primer_part05-238-topo.png,Density   Enclosing Excavation Nothing 
+239,hillforts_primer_part05-239-topo.png,Enclosing Excavation Bank 
+240,hillforts_primer_part05-240-topo.png,Density   Enclosing Excavation Bank 
+241,hillforts_primer_part05-241-topo.png,Enclosing Excavation Wall 
+242,hillforts_primer_part05-242-topo.png,Density   Enclosing Excavation Wall 
+243,hillforts_primer_part05-243-topo.png,Enclosing Excavation Murus 
+244,hillforts_primer_part05-244-topo.png,Enclosing Excavation Timber Framed 
+245,hillforts_primer_part05-245-topo.png,Enclosing Excavation Timber Laced 
+246,hillforts_primer_part05-246-topo.png,Enclosing Excavation Vitrification 
+247,hillforts_primer_part05-247-topo.png,Enclosing Excavation Burning 
+248,hillforts_primer_part05-248-topo.png,Enclosing Excavation Palisade 
+249,hillforts_primer_part05-249-topo.png,Density   Enclosing Excavation Palisade 
+250,hillforts_primer_part05-250-topo.png,Enclosing Excavation Counter Scarp 
+251,hillforts_primer_part05-251-topo.png,Enclosing Excavation Berm 
+252,hillforts_primer_part05-252-topo.png,Enclosing Excavation Unfinished 
+253,hillforts_primer_part05-253-topo.png,Enclosing Excavation Other 
+254,hillforts_primer_part05-254-topo.png,Enclosing Excavation No Known 
+255,hillforts_primer_part05-255-topo.png,Enclosing Gang Working 
+256,hillforts_primer_part05-256-topo.png,Enclosing Ditches 
+257,hillforts_primer_part05-257-topo.png,Density   Enclosing Ditches 
+258,hillforts_primer_part05-258-topo.png,Enclosing Excavation Count by Region
+259,hillforts_primer_part05-259-topo.png,Enclosing Excavation Count by Region (excluding No Known)
+260,hillforts_primer_part05-260-topo.png,Enclosing Excavation Percentage by Region
+261,hillforts_primer_part05-261-topo.png,Enclosing Excavation Percentage by Region (excluding No Known)
+262,hillforts_primer_part05-262-topo.png,Annex 
+263,hillforts_primer_part05-263-topo.png,Density   Annex 
+264,hillforts_primer_part05-264-topo.png,Annex by Region

@@ -1,0 +1,61 @@
+fig_no,file_name,title
+1,hillforts_primer_part04-001.png,Interior Water
+2,hillforts_primer_part04-002.png,Interior Water (Excluding None)
+3,hillforts_primer_part04-003.png,Interior Water None 
+4,hillforts_primer_part04-004.png,Interior Water Spring 
+5,hillforts_primer_part04-005.png,Interior Water Stream 
+6,hillforts_primer_part04-006.png,Interior Water Pool 
+7,hillforts_primer_part04-007.png,Interior Water Flush 
+8,hillforts_primer_part04-008.png,Interior Water Well 
+9,hillforts_primer_part04-009.png,Interior Water Other 
+10,hillforts_primer_part04-010.png,Interior Surface
+11,hillforts_primer_part04-011.png,Interior Surface (Excluding None)
+12,hillforts_primer_part04-012.png,Interior Surface None 
+13,hillforts_primer_part04-013.png,Interior Surface Round 
+14,hillforts_primer_part04-014.png,Density Interior Surface Round
+15,hillforts_primer_part04-015.png,Interior Surface Rectangular 
+16,hillforts_primer_part04-016.png,Density Interior Surface Rectangular
+17,hillforts_primer_part04-017.png,Interior Surface Curvilinear 
+18,hillforts_primer_part04-018.png,Density Interior Surface Curvilinear
+19,hillforts_primer_part04-019.png,Interior Surface Roundhouse 
+20,hillforts_primer_part04-020.png,Density Interior Surface Roundhouse
+21,hillforts_primer_part04-021.png,Interior Surface Pit 
+22,hillforts_primer_part04-022.png,Interior Surface Quarry 
+23,hillforts_primer_part04-023.png,Density Interior Surface Quarry
+24,hillforts_primer_part04-024.png,Interior Surface Other 
+25,hillforts_primer_part04-025.png,Density Interior Surface Other
+26,hillforts_primer_part04-026.png,Interior: Excavaion
+27,hillforts_primer_part04-027.png,Interior Excavaion
+28,hillforts_primer_part04-028.png,Interior Excavation None 
+29,hillforts_primer_part04-029.png,Interior Excavation None (Excavated)
+30,hillforts_primer_part04-030.png,Density Interior Excavation None (Excavated)
+31,hillforts_primer_part04-031.png,Interior Excavation None (Excavated)
+32,hillforts_primer_part04-032.png,Interior Excavation Pit 
+33,hillforts_primer_part04-033.png,Density Interior Excavation Pit
+34,hillforts_primer_part04-034.png,Interior Excavation Posthole 
+35,hillforts_primer_part04-035.png,Density Interior Excavation Posthole
+36,hillforts_primer_part04-036.png,Interior Excavation Roundhouse 
+37,hillforts_primer_part04-037.png,Density Interior Excavation Roundhouse
+38,hillforts_primer_part04-038.png,Interior Excavation Rectangular 
+39,hillforts_primer_part04-039.png,Density Interior Excavation Rectangular
+40,hillforts_primer_part04-040.png,Interior Excavation Road 
+41,hillforts_primer_part04-041.png,Interior Excavation Quarry 
+42,hillforts_primer_part04-042.png,Interior Excavation Other 
+43,hillforts_primer_part04-043.png,Density Interior Excavation Other
+44,hillforts_primer_part04-044.png,Interior Excavation Nothing 
+45,hillforts_primer_part04-045.png,Density Interior Excavation Nothing
+46,hillforts_primer_part04-046.png,Interior: Geophysics
+47,hillforts_primer_part04-047.png,Interior: Geophysics
+48,hillforts_primer_part04-048.png,Interior: Types
+49,hillforts_primer_part04-049.png,Interior: Types as a proportion of the total
+50,hillforts_primer_part04-050.png,Interior Geophysics None 
+51,hillforts_primer_part04-051.png,Interior Geophysics None (Surveyed)
+52,hillforts_primer_part04-052.png,Density Interior Geophysics None (Surveyed)
+53,hillforts_primer_part04-053.png,Interior Geophysics None (Surveyed)
+54,hillforts_primer_part04-054.png,Interior Geophysics Pit 
+55,hillforts_primer_part04-055.png,Interior Geophysics Roundhouse 
+56,hillforts_primer_part04-056.png,Interior Geophysics Rectangular 
+57,hillforts_primer_part04-057.png,Interior Geophysics Road 
+58,hillforts_primer_part04-058.png,Interior Geophysics Quarry 
+59,hillforts_primer_part04-059.png,Interior Geophysics Other 
+60,hillforts_primer_part04-060.png,Interior Geophysics Nothing 

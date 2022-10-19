@@ -1,0 +1,61 @@
+fig_no,file_name,title
+1,hillforts_primer_part04-001-topo.png,Interior Water
+2,hillforts_primer_part04-002-topo.png,Interior Water (Excluding None)
+3,hillforts_primer_part04-003-topo.png,Interior Water None 
+4,hillforts_primer_part04-004-topo.png,Interior Water Spring 
+5,hillforts_primer_part04-005-topo.png,Interior Water Stream 
+6,hillforts_primer_part04-006-topo.png,Interior Water Pool 
+7,hillforts_primer_part04-007-topo.png,Interior Water Flush 
+8,hillforts_primer_part04-008-topo.png,Interior Water Well 
+9,hillforts_primer_part04-009-topo.png,Interior Water Other 
+10,hillforts_primer_part04-010-topo.png,Interior Surface
+11,hillforts_primer_part04-011-topo.png,Interior Surface (Excluding None)
+12,hillforts_primer_part04-012-topo.png,Interior Surface None 
+13,hillforts_primer_part04-013-topo.png,Interior Surface Round 
+14,hillforts_primer_part04-014-topo.png,Density Interior Surface Round
+15,hillforts_primer_part04-015-topo.png,Interior Surface Rectangular 
+16,hillforts_primer_part04-016-topo.png,Density Interior Surface Rectangular
+17,hillforts_primer_part04-017-topo.png,Interior Surface Curvilinear 
+18,hillforts_primer_part04-018-topo.png,Density Interior Surface Curvilinear
+19,hillforts_primer_part04-019-topo.png,Interior Surface Roundhouse 
+20,hillforts_primer_part04-020-topo.png,Density Interior Surface Roundhouse
+21,hillforts_primer_part04-021-topo.png,Interior Surface Pit 
+22,hillforts_primer_part04-022-topo.png,Interior Surface Quarry 
+23,hillforts_primer_part04-023-topo.png,Density Interior Surface Quarry
+24,hillforts_primer_part04-024-topo.png,Interior Surface Other 
+25,hillforts_primer_part04-025-topo.png,Density Interior Surface Other
+26,hillforts_primer_part04-026-topo.png,Interior: Excavaion
+27,hillforts_primer_part04-027-topo.png,Interior Excavaion
+28,hillforts_primer_part04-028-topo.png,Interior Excavation None 
+29,hillforts_primer_part04-029-topo.png,Interior Excavation None (Excavated)
+30,hillforts_primer_part04-030-topo.png,Density Interior Excavation None (Excavated)
+31,hillforts_primer_part04-031-topo.png,Interior Excavation None (Excavated)
+32,hillforts_primer_part04-032-topo.png,Interior Excavation Pit 
+33,hillforts_primer_part04-033-topo.png,Density Interior Excavation Pit
+34,hillforts_primer_part04-034-topo.png,Interior Excavation Posthole 
+35,hillforts_primer_part04-035-topo.png,Density Interior Excavation Posthole
+36,hillforts_primer_part04-036-topo.png,Interior Excavation Roundhouse 
+37,hillforts_primer_part04-037-topo.png,Density Interior Excavation Roundhouse
+38,hillforts_primer_part04-038-topo.png,Interior Excavation Rectangular 
+39,hillforts_primer_part04-039-topo.png,Density Interior Excavation Rectangular
+40,hillforts_primer_part04-040-topo.png,Interior Excavation Road 
+41,hillforts_primer_part04-041-topo.png,Interior Excavation Quarry 
+42,hillforts_primer_part04-042-topo.png,Interior Excavation Other 
+43,hillforts_primer_part04-043-topo.png,Density Interior Excavation Other
+44,hillforts_primer_part04-044-topo.png,Interior Excavation Nothing 
+45,hillforts_primer_part04-045-topo.png,Density Interior Excavation Nothing
+46,hillforts_primer_part04-046-topo.png,Interior: Geophysics
+47,hillforts_primer_part04-047-topo.png,Interior: Geophysics
+48,hillforts_primer_part04-048-topo.png,Interior: Types
+49,hillforts_primer_part04-049-topo.png,Interior: Types as a proportion of the total
+50,hillforts_primer_part04-050-topo.png,Interior Geophysics None 
+51,hillforts_primer_part04-051-topo.png,Interior Geophysics None (Surveyed)
+52,hillforts_primer_part04-052-topo.png,Density Interior Geophysics None (Surveyed)
+53,hillforts_primer_part04-053-topo.png,Interior Geophysics None (Surveyed)
+54,hillforts_primer_part04-054-topo.png,Interior Geophysics Pit 
+55,hillforts_primer_part04-055-topo.png,Interior Geophysics Roundhouse 
+56,hillforts_primer_part04-056-topo.png,Interior Geophysics Rectangular 
+57,hillforts_primer_part04-057-topo.png,Interior Geophysics Road 
+58,hillforts_primer_part04-058-topo.png,Interior Geophysics Quarry 
+59,hillforts_primer_part04-059-topo.png,Interior Geophysics Other 
+60,hillforts_primer_part04-060-topo.png,Interior Geophysics Nothing 
