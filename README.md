@@ -3,7 +3,7 @@
 ## An Analysis of the Atlas of Hillforts of Britain and Ireland<br>
 https://colab.research.google.com/drive/1pcJkVos5ltkR1wMp7nudJBYLTcep9k9b?usp=sharing
 
-Mike Middleton, March 2022,<br>https://twitter.com/WulfgarTheBard
+Mike Middleton, March 2022,<br>https://orcid.org/0000-0001-5813-6347<br>https://twitter.com/WulfgarTheBard
 
 This Hillforts Primer is a research tool that analyses, maps, plots, transforms and adds to the data published in The Atlas of Hillforts of Britain and Ireland (Lock & Ralston, 2017).
 The atlas contains 4147 records, with each record having 244 columns of associated information.
