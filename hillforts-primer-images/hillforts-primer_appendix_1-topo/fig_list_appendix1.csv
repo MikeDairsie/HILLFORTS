@@ -1,8 +1,0 @@
-fig_no,file_name,title
-1,hillforts_primer_appendix1-001-topo.png,Southern Density Transformed Showing Hillforts Over 21 Ha (South Only)
-2,hillforts_primer_appendix1-002-topo.png,Southern Density Transformed Showing Hillforts of 21 Ha & Over (South)
-3,hillforts_primer_appendix1-003-topo.png,Hillfort distances to H1 line
-4,hillforts_primer_appendix1-004-topo.png,Hillfort distances to the first random line
-5,hillforts_primer_appendix1-005-topo.png,Hillfort distances from 1500 random lines
-6,hillforts_primer_appendix1-006-topo.png,Mean Squared Error for hillforts offset from test lines   H1 MSE shown in red.
-7,hillforts_primer_appendix1-007-topo.png,Boxplot of Mean Squared Error for hillforts offset from test lines with H1 MSE shown in red. (wiskers at 2.5 & 97.5%)

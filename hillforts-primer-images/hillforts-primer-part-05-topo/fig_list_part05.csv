@@ -2,13 +2,13 @@ fig_no,file_name,title
 1,hillforts_primer_part05-001-topo.png,Entrances Breaks
 2,hillforts_primer_part05-002-topo.png,Entrances Breaks Range
 3,hillforts_primer_part05-003-topo.png,Entrances Breaks 
-4,hillforts_primer_part05-004-topo.png,Distribution of IQR (0   2 Ha)
-5,hillforts_primer_part05-005-topo.png,Density   Entrances Breaks IQR (Middle 50%) (0   2 Ha)
-6,hillforts_primer_part05-006-topo.png,Distribution of Upper Quartile (3   5)
-7,hillforts_primer_part05-007-topo.png,Density   Entrances Breaks Upper Quartile (3   5)
+4,hillforts_primer_part05-004-topo.png,Distribution of IQR (0 to 2)
+5,hillforts_primer_part05-005-topo.png,Density   Entrances Breaks IQR (Middle 50%) (0 to 2)
+6,hillforts_primer_part05-006-topo.png,Distribution of Upper Quartile (3 to 5)
+7,hillforts_primer_part05-007-topo.png,Density   Entrances Breaks Upper Quartile (3 to 5)
 8,hillforts_primer_part05-008-topo.png,Distribution of Outliers (6+)
 9,hillforts_primer_part05-009-topo.png,Entrances Breaks (0)
-10,hillforts_primer_part05-010-topo.png,Entrances Breaks (0)   North East
+10,hillforts_primer_part05-010-topo.png,Entrances Breaks (0)   Northeast
 11,hillforts_primer_part05-011-topo.png,Density   Entrances Breaks (0) 
 12,hillforts_primer_part05-012-topo.png,Entrances Breaks (1)
 13,hillforts_primer_part05-013-topo.png,Density   Entrances Breaks (1) 
@@ -19,7 +19,7 @@ fig_no,file_name,title
 18,hillforts_primer_part05-018-topo.png,Density   Entrances Breaks (3) 
 19,hillforts_primer_part05-019-topo.png,Entrances Breaks (4)
 20,hillforts_primer_part05-020-topo.png,Density   Entrances Breaks (4) 
-21,hillforts_primer_part05-021-topo.png,Entrances Breaks (4)   North East
+21,hillforts_primer_part05-021-topo.png,Entrances Breaks (4)   Northeast
 22,hillforts_primer_part05-022-topo.png,Four Entrance Breaks (NE) Dating
 23,hillforts_primer_part05-023-topo.png,Four Entrance Breaks (NE) Dating (Excluding Unknown)
 24,hillforts_primer_part05-024-topo.png,Entrances Breaks (5)
@@ -45,10 +45,10 @@ fig_no,file_name,title
 44,hillforts_primer_part05-044-topo.png,Enclosing Area 1 Range
 45,hillforts_primer_part05-045-topo.png,Enclosing Area 1 (South) Range
 46,hillforts_primer_part05-046-topo.png,Enclosing Area 1 clip (South) (hectares)
-47,hillforts_primer_part05-047-topo.png,Enclosing Area 1 (North East) Range
-48,hillforts_primer_part05-048-topo.png,Enclosing Area 1 clip (North East) (hectares)
-49,hillforts_primer_part05-049-topo.png,Enclosing Area 1 (North West) Range
-50,hillforts_primer_part05-050-topo.png,Enclosing Area 1 clip (North West) (hectares)
+47,hillforts_primer_part05-047-topo.png,Enclosing Area 1 (Northeast) Range
+48,hillforts_primer_part05-048-topo.png,Enclosing Area 1 clip (Northeast) (hectares)
+49,hillforts_primer_part05-049-topo.png,Enclosing Area 1 (Northwest) Range
+50,hillforts_primer_part05-050-topo.png,Enclosing Area 1 clip (Northwest) (hectares)
 51,hillforts_primer_part05-051-topo.png,Enclosing Area 1 (North Ireland) Range
 52,hillforts_primer_part05-052-topo.png,Enclosing Area 1 clip (North Ireland) (hectares)
 53,hillforts_primer_part05-053-topo.png,Enclosing Area 1 (South Ireland) Range
@@ -112,7 +112,7 @@ fig_no,file_name,title
 111,hillforts_primer_part05-111-topo.png,Density   Ramparts (3) 
 112,hillforts_primer_part05-112-topo.png,Enclosing Max Ramparts (4)
 113,hillforts_primer_part05-113-topo.png,Density   Ramparts (4) 
-114,hillforts_primer_part05-114-topo.png,Enclosing Max Ramparts (4+)   North East
+114,hillforts_primer_part05-114-topo.png,Enclosing Max Ramparts (4+)   Northeast
 115,hillforts_primer_part05-115-topo.png,Enclosing Max Ramparts (5+ Outliers)
 116,hillforts_primer_part05-116-topo.png,Enclosing Max Ramparts: Regional Boxplots
 117,hillforts_primer_part05-117-topo.png,Enclosing Max Ramparts by Region
@@ -130,7 +130,7 @@ fig_no,file_name,title
 129,hillforts_primer_part05-129-topo.png,Enclosing Ditches Number (3)
 130,hillforts_primer_part05-130-topo.png,Density   Ditches (3) 
 131,hillforts_primer_part05-131-topo.png,Enclosing Ditches Number (4)
-132,hillforts_primer_part05-132-topo.png,Enclosing Ditches Number (4+)   North East
+132,hillforts_primer_part05-132-topo.png,Enclosing Ditches Number (4+)   Northeast
 133,hillforts_primer_part05-133-topo.png,Enclosing Ditches Number (5+ Outliers)
 134,hillforts_primer_part05-134-topo.png,Enclosing Ditches Number: Regional Boxplots
 135,hillforts_primer_part05-135-topo.png,Enclosing Ditches Region
