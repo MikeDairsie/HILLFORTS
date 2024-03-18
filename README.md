@@ -5,7 +5,10 @@
 [HTML: Read only](https://www.dairsieonline.co.uk/hillforts/hillforts_primer_part_01.html)<br>
 [HTML: Read only topographic](https://www.dairsieonline.co.uk/hillforts/hillforts_primer_part_01-topo.html)
 
-Mike Middleton, March 2022,<br>https://orcid.org/0000-0001-5813-6347<br>
+Mike Middleton<br>https://orcid.org/0000-0001-5813-6347
+
+Version 1.0, March 2024.<br>
+This research was begun in March 2022.<br>
 
 The Hillforts Primer is a research tool that analyses, maps, plots, transforms and adds to the data published in The Atlas of Hillforts of Britain and Ireland (Lock & Ralston, 2017).
 The atlas contains 4147 records, with each record having 244 columns of associated information.
