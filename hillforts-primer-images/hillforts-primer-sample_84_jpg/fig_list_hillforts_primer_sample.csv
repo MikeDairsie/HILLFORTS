@@ -1,0 +1,85 @@
+﻿image_no,file_name,title
+1,hillforts_primer_sample_001.jpg,The hills and mountains of Britain and Ireland
+2,hillforts_primer_sample_002.jpg,The distribution of hillforts
+3,hillforts_primer_sample_003.jpg,The distribution of confirmed hillforts
+4,hillforts_primer_sample_004.jpg,The distribution of unconfirmed hillforts
+5,hillforts_primer_sample_005.jpg,The distribution of hillforts with irreconciled issues
+6,hillforts_primer_sample_006.jpg,The distribution of hillforts where citizen science was carried out
+7,hillforts_primer_sample_007.jpg,The density of hillforts
+8,hillforts_primer_sample_008.jpg,Histogram showing the distribution of hillforts from east to west
+9,hillforts_primer_sample_009.jpg,Histogram showing the distribution of hillforts from south to north
+10,hillforts_primer_sample_010.jpg,The density of hillforts in five regional data packages
+11,hillforts_primer_sample_011.jpg,The hillfort density of the southern data package with boxplot. The red boxplot shows the extent of 50% of the data within this regional data package (the interquartile range). The black boxplot shows the extent of 95.6% of the data.                
+12,hillforts_primer_sample_012.jpg,The hillfort density of the northeast data package with boxplot. The red boxplot shows the extent of 50% of the data within this regional data package (the interquartile range). The black boxplot shows the extent of 95.6% of the data.                
+13,hillforts_primer_sample_013.jpg,The hillfort density of the northwest data package with boxplot. The red boxplot shows the extent of 50% of the data within this regional data package (the interquartile range). The black boxplot shows the extent of 95.6% of the data.                
+14,hillforts_primer_sample_014.jpg,The hillfort density of the Irish data package with boxplot.  
+15,hillforts_primer_sample_015.jpg,The hillfort density of the Irish data packages with boxplot. The red boxplot shows the extent of 50% of the data within this regional data package (the interquartile range). The black boxplot shows the extent of 95.6% of the data.                
+16,hillforts_primer_sample_016.jpg,Hillfort condition
+17,hillforts_primer_sample_017.jpg,The distribution of extant forts
+18,hillforts_primer_sample_018.jpg,The distribution of cropmark forts
+19,hillforts_primer_sample_019.jpg,The density of cropmark forts
+20,hillforts_primer_sample_020.jpg,The distribution of destroyed forts
+21,hillforts_primer_sample_021.jpg,The altitude of hillforts
+22,hillforts_primer_sample_022.jpg,The distribution of hillforts by altitude
+23,hillforts_primer_sample_023.jpg,The count of hillforts by altitude
+24,hillforts_primer_sample_024.jpg,The distribution of contour forts
+25,hillforts_primer_sample_025.jpg,The density of contour forts
+26,hillforts_primer_sample_026.jpg,The distribution of promontory forts
+27,hillforts_primer_sample_027.jpg,The density of promontory forts
+28,hillforts_primer_sample_028.jpg,The count of hillforts by topographic type
+29,hillforts_primer_sample_029.jpg,The distribution of hilltop forts
+30,hillforts_primer_sample_030.jpg,The density of hilltop forts
+31,hillforts_primer_sample_031.jpg,The distribution of coastal forts
+32,hillforts_primer_sample_032.jpg,The aspect of hillforts
+33,hillforts_primer_sample_033.jpg,Spider plot of hillfort aspect
+34,hillforts_primer_sample_034.jpg,The dating of hillforts
+35,hillforts_primer_sample_035.jpg,The dating of hillforts - using only dated forts
+36,hillforts_primer_sample_036.jpg,The distribution of dated forts
+37,hillforts_primer_sample_037.jpg,The distribution of undated forts
+38,hillforts_primer_sample_038.jpg,Dating reliability
+39,hillforts_primer_sample_039.jpg,Hillforts dated by region
+40,hillforts_primer_sample_040.jpg,The form of interior features within hillforts
+41,hillforts_primer_sample_041.jpg,The form of interior features within hillforts - using only those which have information about features
+42,hillforts_primer_sample_042.jpg,The form of excavated features within hillforts
+43,hillforts_primer_sample_043.jpg,The form of excavated features within hillforts - using only those which have information about features
+44,hillforts_primer_sample_044.jpg,The distribution of hillforts that have not been excavated
+45,hillforts_primer_sample_045.jpg,The distribution of hillforts that have been excavated
+46,hillforts_primer_sample_046.jpg,The form of geophysics features within hillforts
+47,hillforts_primer_sample_047.jpg,The form of geophysics features within hillforts - using only those which have information about features
+48,hillforts_primer_sample_048.jpg,The comparison between features found by excavation and geophysics within hillforts - count
+49,hillforts_primer_sample_049.jpg,The comparison between features found by excavation and geophysics within hillforts - proportion
+50,hillforts_primer_sample_050.jpg,The distribution of hillforts that have not been surveyed by geophysics
+51,hillforts_primer_sample_051.jpg,The distribution of hillforts that have been surveyed by geophysics
+52,hillforts_primer_sample_052.jpg,The count of hillforts by the number of original entrances
+53,hillforts_primer_sample_053.jpg,The count of hillforts with guard chambers and chevaux de frise
+54,hillforts_primer_sample_054.jpg,Boxplots showing the area of hillforts by region. The box shows the extent of 50% of the data. The whiskers shows the extent of 95.6% of the data. The line in the box shows the mean value.
+55,hillforts_primer_sample_055.jpg,"The density of small, medium and large forts"
+56,hillforts_primer_sample_056.jpg,The density of very large forts - the outliers over 10.5 Ha
+57,hillforts_primer_sample_057.jpg,The distribution of forts greater than or equal to 21 Ha
+58,hillforts_primer_sample_058.jpg,The density of hillforts showing the line of the forts greater than or equal to 21 Ha
+59,hillforts_primer_sample_059.jpg,The southern data package showing the density of hillforts and the line of the forts greater than or equal to 21 Ha
+60,hillforts_primer_sample_060.jpg,The count of hillforts by the number of ramparts
+61,hillforts_primer_sample_061.jpg,The proportion of ramparts by region
+62,hillforts_primer_sample_062.jpg,Rampart density
+63,hillforts_primer_sample_063.jpg,The count of hillforts by the number of ditches
+64,hillforts_primer_sample_064.jpg,The proportion of ditches by region
+65,hillforts_primer_sample_065.jpg,Ditch density
+66,hillforts_primer_sample_066.jpg,The count of ditches and ramparts by quadrant
+67,hillforts_primer_sample_067.jpg,The density of forts with no rampart by quadrant
+68,hillforts_primer_sample_068.jpg,The density of forts with one rampart by quadrant
+69,hillforts_primer_sample_069.jpg,The density of forts with two ramparts by quadrant
+70,hillforts_primer_sample_070.jpg,The density of forts with three ramparts by quadrant
+71,hillforts_primer_sample_071.jpg,The count of current enclosing works by region
+72,hillforts_primer_sample_072.jpg,The proportion of current enclosing works by region
+73,hillforts_primer_sample_073.jpg,The density of different types of enclosing works
+74,hillforts_primer_sample_074.jpg,The distribution of forts enclosed by a bank
+75,hillforts_primer_sample_075.jpg,The density of forts enclosed by a bank
+76,hillforts_primer_sample_076.jpg,The distribution of forts enclosed by a wall
+77,hillforts_primer_sample_077.jpg,The density of forts enclosed by a wall
+78,hillforts_primer_sample_078.jpg,The distribution of forts enclosed by a rubble
+79,hillforts_primer_sample_079.jpg,The density of forts enclosed by a rubble
+80,hillforts_primer_sample_080.jpg,The distribution of forts with surface vitrification
+81,hillforts_primer_sample_081.jpg,The density of forts with surface vitrification
+82,hillforts_primer_sample_082.jpg,The proportion of enclosing types by region
+83,hillforts_primer_sample_083.jpg,The distribution of forts with annexes
+84,hillforts_primer_sample_084.jpg,The count of forts with annexes by region
