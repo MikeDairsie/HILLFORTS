@@ -16,7 +16,6 @@ The size and shape of the data can make it difficult to manipulate in traditiona
 The original data is available here:
 
 Lock, G. and Ralston, I. 2017. Atlas of Hillforts of Britain and Ireland. [ONLINE] Avalable at: https://hillforts.arch.ox.ac.uk<br>
-Rest services: https://maps.arch.ox.ac.uk/server/rest/services/hillforts/Atlas_of_Hillforts/MapServer<br>
 Licence: https://creativecommons.org/licenses/by-sa/4.0/ 
 
 This GitHub repository serves as a complementary resource to the publication Middleton, M. (2024), ‘A Case Study on the Reuse of Digital Archaeological Data: An Analysis of the Atlas of Hillforts of Britain and Ireland’, published in the Journal of Computer Applications in Archaeology. It provides additional tools, data, or insights that align with the study's focus on digital data reuse in archaeology, enhancing the accessibility and practical application of the concepts discussed in the article.<br>
